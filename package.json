@@ -1,0 +1,27 @@
+{
+  "name": "simple_node_without_express",
+  "version": "1.0.0",
+  "description": "This is the simple node application cruds without express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Simple",
+    "Node",
+    "Application",
+    "Node",
+    "without",
+    "express",
+    "route",
+    "Node",
+    "cruds",
+    "Nodejs"
+  ],
+  "author": "Gohel Dhaval",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.0",
+    "querystring": "^0.2.0"
+  }
+}
